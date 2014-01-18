@@ -1,5 +1,12 @@
 
-# Documentation
+# Documentation using MD
+
+If documentation of QM programs was done using Markdown (MD),
+the ASCII version would actually be readable.
+Plus MD is so easily converted to HTML, or even PDF (Latex),
+for easy readme/documentation.
+
+## Example
 
 How to start at calculation is very simple,
 here is an example of a simple Hatree-Fock calculation.
@@ -23,5 +30,12 @@ which is saved as `waterdimer.inp` and then runned simple as
 
     ./jamess waterdimer.inp > waterdimer.log
 
+## Unfortunately
 
+In-line equations does not work yet, for example $\psi$, but
+this could easily be done using MathJax plugin for HTML browsers.
+
+    $$ \mathrm{RMSD}(v,w) = \sqrt{  \frac{1}{n} \sum_{i=1}^n ((v_{ix} - w_{ix})^2 + (v_{iy} - w_{iy})^2 + (v_{iz} - w_{iz})^2 ) } $$
+
+and this would be alot better than using images, like most journals do.
 
