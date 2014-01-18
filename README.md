@@ -16,3 +16,8 @@ Because QM software should be OpenSouce and free.
 
   - Using Markdown for documentation (easy syntax, easy HTML/PDF convertion)
 
+
+## MD/Github supports relative paths
+
+[Read more words!](documentation/start.md)
+
