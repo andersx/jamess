@@ -19,5 +19,5 @@ Because QM software should be OpenSouce and free.
 
 ## MD/Github supports relative paths
 
-[Read more words!](documentation/start.md)
+[Read more words!](documentation/start.md#example)
 
