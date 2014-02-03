@@ -8,6 +8,7 @@ Because QM software should be OpenSouce and free.
 
 ## Roadmap (milestones)
 
+  - Extended Hückel method
   - Hartree-Fock energy calculation
   - Semi-empirical energy calculation
   - Analytical gradients and Hessians
